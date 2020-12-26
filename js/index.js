@@ -1,0 +1,6 @@
+function Person() {
+
+
+}
+
+Person();
